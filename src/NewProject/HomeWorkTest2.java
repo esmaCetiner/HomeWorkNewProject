@@ -6,6 +6,7 @@ public class HomeWorkTest2 {
 
 
         System.out.println("Homework projesine GITHUB da eklendi.");
+        System.out.println("ekstra calisma yapiliyor");
 
 
     }
